@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Mario",
+    "apellido": "Miranda",
+    "activo": true,
+    "edad": 21
+  },
+  {
+    "nombre": "Stiven",
+    "apellido": "Herrera",
+    "activo": true,
+    "edad": 18
+  },
+  {
+    "nombre": "Kevin",
+    "apellido": "Villegas",
+    "activo": true,
+    "edad": 19
+  },
+  {
+    "nombre": "Nicolas",
+    "apellido": "Valencia",
+    "activo": false,
+    "edad": 17,
+    "estado_civil": true
+  }
+]
