@@ -14,5 +14,5 @@ img.addEventListener("mouseout", () => {
   console.log("Sale de la imagen!!!");
 });
 img.addEventListener("mouseover", () => {
-    console.log("Estas sobre la imagen!!!")
-    });
+  console.log("Estas sobre la imagen!!!");
+});
