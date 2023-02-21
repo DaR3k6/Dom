@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "sony",
+    "genero": "masculino",
+    "color": "blanco",
+    "tipo": "perro",
+    "fecha": "27-02-2015"
+  },
+  {
+    "nombre": "copito",
+    "genero": "masculino",
+    "color": "blanco",
+    "tipo": "gato",
+    "fecha": "05-10-2018"
+  },
+  {
+    "nombre": "pimienta",
+    "genero": "hembra",
+    "color": "negra",
+    "tipo": "gata",
+    "fecha": "20-10-2017"
+  },
+  {
+    "nombre": "bruno",
+    "genero": "masculino",
+    "color": "verde",
+    "tipo": "serpiente",
+    "fecha": "21-02-2017"
+  },
+  {
+    "nombre": "chocolate",
+    "genero": "masculino",
+    "color": "cafe",
+    "tipo": "perro",
+    "fecha": "27-02-2017"
+  }
+]

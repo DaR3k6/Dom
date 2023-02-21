@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nombre": "Asia",
+    "tamaño": "44.58 millones km²"
+  },
+  {
+    "id": "2",
+    "nombre": "África",
+    "tamaño": "30.37 millones km²"
+  },
+  {
+    "id": "3",
+    "nombre": "América del Norte",
+    "tamaño": "24.71 millones km²"
+  },
+  {
+    "id": "4",
+    "nombre": "América del Sur",
+    "tamaño": "17.84 millones km²"
+  },
+  {
+    "id": "5",
+    "nombre": "Europa",
+    "tamaño": "10.53 millones km²"
+  },
+  {
+    "id": "7",
+    "nombre": "Oceanía",
+    "tamaño": "8.526 millones km²"
+  }
+]

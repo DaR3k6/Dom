@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "Argentina",
+    "tamaño": "2.78 millones km²"
+  },
+  {
+    "id": 2,
+    "nombre": "Alemania",
+    "tamaño": "357,588 km²"
+  },
+  {
+    "id": 3,
+    "nombre": "Groenlandia",
+    "tamaño": "2.166 millones km²"
+  },
+  {
+    "id": 4,
+    "nombre": "Australia",
+    "tamaño": "7.688 millones km²"
+  },
+  {
+    "id": 5,
+    "nombre": "Rusia",
+    "tamaño": "17.1 millones km²"
+  },
+  {
+    "id": 6,
+    "nombre": "Canadá",
+    "tamaño": "9.985 millones km²"
+  },
+  {
+    "id": 7,
+    "nombre": "Italia",
+    "tamaño": "302,073 km"
+  },
+  {
+    "id": 8,
+    "nombre": "Francia",
+    "tamaño": "551,695 km²"
+  },
+  {
+    "id": 9,
+    "nombre": "Colombia",
+    "tamaño": "1.139 millones km²"
+  },
+  {
+    "id": 10,
+    "nombre": "Japón",
+    "tamaño": "377,973 km²"
+  }
+]

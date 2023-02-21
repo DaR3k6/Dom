@@ -18,7 +18,7 @@ fetch(api)
       //Creo el dom
       //Creo el card
       const card = document.createElement("div");
-      card.setAttribute("class", "card mt-3 col-3 mb-3 style= width: 10rem;");
+      card.setAttribute("class", "card mt-3 col-6 mb-3 style= width: 10rem;");
       //
       const img = document.createElement("img");
       img.src = respuesta[i].images;
