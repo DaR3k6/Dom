@@ -14,14 +14,19 @@ fetch(api)
       const parrafo = document.createElement("p");
       parrafo.setAttribute("class", "alert alert-dark");
       parrafo.innerHTML =
+        "IDENTIFICIACION:" +
         response[i].id +
         " " +
+        "NOMBRE:" +
         response[i].first_name +
         " " +
+        "APELLIDO:" +
         response[i].last_name +
         " " +
+        "CORREO:" +
         response[i].email +
         " " +
+        "CUIDAD:" +
         response[i].country;
 
       div.appendChild(parrafo);

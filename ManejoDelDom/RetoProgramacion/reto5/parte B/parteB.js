@@ -9,7 +9,7 @@ fetch(api)
     return response.json();
   })
   .then(response => {
-    for (let i = 0; i < response.lengath; i++) {
+    for (let i = 0; i < response.length; i++) {
       //CREO EL ITEM
       const items = document.createElement("div");
       items.setAttribute("class", "accordion-item ");
